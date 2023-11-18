@@ -1,0 +1,2 @@
+SCREEN_SIZE = (1000, 800)
+FPS = 60
